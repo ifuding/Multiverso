@@ -110,7 +110,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
     <Lib>
-      <AdditionalDependencies>msmpi.lib;libzmq-v120-mt-4_0_4.lib;</AdditionalDependencies>
+      <AdditionalDependencies>mpi.lib;libzmq-v120-mt-4_0_4.lib;</AdditionalDependencies>
       <AdditionalLibraryDirectories>..\third_party\ZeroMQ\lib;..\third_party\MPI\Lib\x64</AdditionalLibraryDirectories>
     </Lib>
   </ItemDefinitionGroup>
@@ -150,7 +150,7 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
     <Lib>
-      <AdditionalDependencies>msmpi.lib;libzmq-v120-mt-4_0_4.lib;</AdditionalDependencies>
+      <AdditionalDependencies>mpi.lib;libzmq-v120-mt-4_0_4.lib;</AdditionalDependencies>
     </Lib>
     <Lib>
       <AdditionalLibraryDirectories>..\third_party\ZeroMQ\lib;..\third_party\MPI\Lib\x64</AdditionalLibraryDirectories>

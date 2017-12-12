@@ -1,0 +1,13 @@
+﻿Build started 12/8/2017 1:31:25 AM.
+     1>Project "D:\lightlda\LightLDA\Multiverso\windows\multiverso_server\multiverso_server.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\multiverso_server\cl_parser.cpp ..\..\src\multiverso_server\main.cpp
+         main.cpp
+     1>d:\lightlda\lightlda\multiverso\src\multiverso_server\main.cpp(6): fatal error C1083: Cannot open include file: 'log.h': No such file or directory
+         cl_parser.cpp
+         Generating Code...
+     1>Done Building Project "D:\lightlda\LightLDA\Multiverso\windows\multiverso_server\multiverso_server.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.69
